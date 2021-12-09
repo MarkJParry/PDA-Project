@@ -15,11 +15,11 @@ This repository contains the following notebooks:
 
 # Using this notebook
 To view notebooks without interacting with them[^1]
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/MarkJParry/PDA-Numpy/tree/main/)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/MarkJParry/PDA-Project/tree/main/)
 
 
 To view and interact with notebooks[^2]
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarkJParry/PDA-Numpy/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarkJParry/PDA-Project/HEAD)
 
 Alternatively it can be downloaded to your machine.
 You will need to install either anaconda or python on your machine.
